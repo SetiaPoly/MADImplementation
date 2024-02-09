@@ -1,0 +1,8 @@
+Week 15
+RecyclerView w/ searchview
+https://www.youtube.com/watch?v=CTvzoVtKoJ8&t=84s
+https://www.youtube.com/watch?v=MWlxFccYit8&t=472s
+https://www.youtube.com/watch?v=RHqGiWluAzU
+
+TextView
+https://www.youtube.com/watch?v=2XlCcMS-7nM&t=119s

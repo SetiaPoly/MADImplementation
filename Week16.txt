@@ -1,0 +1,9 @@
+Week 16
+RecyclerView using SearchView and cardview w/ adapter
+https://www.youtube.com/watch?v=MrZNoSrcJUs&t=781s
+https://www.youtube.com/watch?v=rn53Roy-HgE
+https://www.youtube.com/watch?v=sJ-Z9G0SDhc&t=330s
+
+Favorite/Bookmark
+https://www.youtube.com/watch?v=rhtKP7Taxwo&t=1588s
+https://www.youtube.com/watch?v=jKYYmdtdrjo&t=65s

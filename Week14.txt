@@ -1,0 +1,11 @@
+Search Bar w/ array: 
+https://www.youtube.com/watch?v=tQ7V7iBg5zE&ab_channel=CodingSTUFF
+https://www.youtube.com/watch?v=zs3bBGflrS4&ab_channel=LearnAndroid
+https://www.youtube.com/watch?v=rhtKP7Taxwo&ab_channel=DailyCoding
+
+Login Feature
+https://www.youtube.com/watch?v=8obgNNlj3Eo&ab_channel=CodingTutorials
+
+Verify button
+https://stackoverflow.com/questions/29227126/how-can-i-change-default-black-dim-background-color-not-the-amount-of-dim-of
+

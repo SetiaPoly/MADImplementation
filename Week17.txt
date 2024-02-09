@@ -1,0 +1,15 @@
+Week 17
+https://chat.openai.com/share/19e39c9b-8bb4-4312-922c-ea192182cc7b: Debug of polyline (Didnt help as much but just clarification on certain lines.)
+https://stackoverflow.com/questions/29227126/how-can-i-change-default-black-dim-background-color-not-the-amount-of-dim-of
+https://www.youtube.com/watch?v=tQ7V7iBg5zE&ab_channel=CodingSTUFF
+https://www.youtube.com/watch?v=zs3bBGflrS4&ab_channel=LearnAndroid
+https://www.youtube.com/watch?v=rhtKP7Taxwo&ab_channel=DailyCoding
+https://www.youtube.com/watch?v=vBWojZiEkb0
+https://www.youtube.com/watch?v=_bsq2FyZx6U
+
+Route drawing for map.
+https://www.youtube.com/watch?v=wRDLjUK8nyU&t=519s
+https://www.youtube.com/watch?v=RQxY7rrZATU
+
+VR app for map
+https://www.youtube.com/watch?v=vBWojZiEkb0&t=185s
